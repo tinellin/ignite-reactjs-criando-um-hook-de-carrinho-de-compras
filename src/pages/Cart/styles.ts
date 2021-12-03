@@ -8,6 +8,7 @@ export const Container = styled.div`
 
   footer {
     margin-top: 30px;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
